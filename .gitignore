@@ -1,0 +1,38 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# =====================
+# Flask / Django
+# =====================
+instance/
+*.db
+*.sqlite3
+
+# =====================
+# IDE / Editor
+# =====================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Logs
+# =====================
+*.log
